@@ -1,0 +1,20 @@
+table {
+width: 100%;
+border: 1px solid black;
+}
+
+.navbar {
+position:relative;
+background-color:maroon;
+color: white;
+text-align:center}
+
+.footer {
+position: relative;
+height:70;
+width:100;
+width: 100%;
+background-color: red;
+color: white;
+text-align: center;
+}
